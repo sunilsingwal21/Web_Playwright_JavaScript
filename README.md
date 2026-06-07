@@ -1,1 +1,1 @@
-# Web_Playwright_Internal
+# Web_Playwright_JavaScript
